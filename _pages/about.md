@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork "
+title: "Welcome! "
 author_profile: true
 redirect_from: 
   - /about/

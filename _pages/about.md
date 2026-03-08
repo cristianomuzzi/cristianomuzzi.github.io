@@ -13,7 +13,7 @@ In my work, I like to combine analytic and numeric approaches and care about the
 
 About me
 ======
-This sets a large space
+I was born in Rome, Italy. I obtained my master degree in physics from Università degli Studi di Roma "La Sapienza", and then moved to Trieste to join the Statitical physics group, where I obtained a PhD in statistical physics. 
 
 Ciao!
 -------

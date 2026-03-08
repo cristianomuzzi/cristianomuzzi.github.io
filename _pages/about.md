@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm Cristiano, I am a postdoc in physics at the Université Libre de Bruxelles. My main interest concerns emergent properties of matter.
+I'm Cristiano, I am a postdoc in physics at the Université Libre de Bruxelles, in the group of [Nathan Goldman](https://www.nathan-goldman-physics.com/). My main interest concerns emergent properties of matter.
 In my work, I like to combine analytic and numeric approaches and care about the relation of theoretical predictions with experiments. I’m particularly interested in research topics related to out-of-equilibrium phases of matter, topological systems, quantum simulation and strongly correlated systems in general.
 
 About me

@@ -12,7 +12,7 @@ In my work, I like to combine analytic and numeric approaches and care about the
 
 About me
 ======
-I was born in Rome, Italy. I obtained my master degree in physics from Università degli Studi di Roma "La Sapienza", and then moved to Trieste to join the [Statitical physics group](https://www.statphys.sissa.it/wordpress/), where I obtained a PhD in statistical physics. 
+I was born in Rome, Italy. I obtained my master degree in physics from Università degli Studi di Roma "La Sapienza", and then moved to Trieste to join the [Statistical physics group](https://www.statphys.sissa.it/wordpress/), where I obtained a PhD in statistical physics. 
 
 Ciao!
 -------

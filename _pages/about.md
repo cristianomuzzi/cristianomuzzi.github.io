@@ -22,7 +22,7 @@ Research interests and highlights:
 
 About my past
 ======
-I was born in Rome, Italy. I obtained my master degree in physics from Università degli Studi di Roma "La Sapienza", and then moved to Trieste to join the [Statistical physics group](https://www.statphys.sissa.it/wordpress/), where I obtained a PhD in statistical physics at the International School for Advanced Studies (SISSA). 
+I was born in Rome, Italy. I obtained my master degree in physics from Università degli Studi di Roma "La Sapienza", and then moved to Trieste to join the [Statistical physics group](http://statphys.sissa.it/index.html), where I obtained a PhD in statistical physics at the International School for Advanced Studies (SISSA). 
 <!--
 Ciao!#
 ------- #

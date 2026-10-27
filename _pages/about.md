@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm Cristiano, a theopretical physicist. Currently, I am postdoc at the Université Libre de Bruxelles (ULB), in the group of [Nathan Goldman](https://www.nathan-goldman-physics.com/). I have a fascination for the properties of matter that challenge our understanding beyond traditional paradigms, for example those driven by quantum fluctuations and coherence or in systems perturbed away from equilibrium.
+I'm Cristiano, a theopretical physicist. Currently, I am postdoc at the Université Libre de Bruxelles (ULB), in the group of [Nathan Goldman](https://www.nathan-goldman-physics.com/), currently focusing on quantums simulation of topological states of matter. I have a fascination for the properties of matter that challenge our understanding beyond traditional paradigms, for example those driven by quantum fluctuations and coherence or in systems perturbed away from equilibrium.
 I have a strong background in statistical physics, and in my research my emphasis is on developing methodological ways to deal with complex systems of broad applicability. These include information theory (both classical and quantum), field-theoretical methods, hydrodynamics, integrability, probability theory and randomness (network theory, random matrices) and numerical methods (data mining, unsupervised learning, exact diagonalization, Monte Carlo methods).
 
 Research interests and highlights:

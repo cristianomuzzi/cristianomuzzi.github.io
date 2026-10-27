@@ -14,7 +14,7 @@ Research interests and highlights:
 ======
 - Synthetic matter and quantum simulation
 - Quantum Hall physics
-- Entanglement in many-body systems [1](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.111.014312)
+- Entanglement in many-body systems [[1](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.111.014312)]
 - Transport phenomena and anomalous fluctuations [2](https://journals.aps.org/prb/abstract/10.1103/q549-whw6)
 - Dimensional reduction, information and network theory applied to many-body systems [4](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.110.064121)[5](https://arxiv.org/abs/2512.02121)
 - Superconductivity and unconventional pairing mechanisms [6](https://arxiv.org/abs/2608.03823)

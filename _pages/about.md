@@ -7,8 +7,8 @@ redirect_from:
   - /about.html
 ---
 
-I'm Cristiano, I am a theoretical physicist. Currently, I am postdoc at the Université Libre de Bruxelles (ULB), in the group of [Nathan Goldman](https://www.nathan-goldman-physics.com/), currently focusing on quantum simulation of topological states of matter. I have a fascination for the properties of matter that challenge our understanding beyond traditional paradigms, for example those driven by quantum fluctuations and coherence or in systems perturbed away from equilibrium.
-In my research my emphasis is on developing methodological ways to deal with complex systems rooted in statical physics. These include information theory (both classical and quantum), field-theoretical methods, hydrodynamics, integrability, probability theory and randomness (network theory, random matrices) and numerical methods (data mining, unsupervised learning, exact diagonalization, Monte Carlo methods).
+I'm Cristiano, I am a theoretical physicist. I am postdoc at the Université Libre de Bruxelles (ULB), in the group of [Nathan Goldman](https://www.nathan-goldman-physics.com/), currently focusing on quantum simulation of topological states of matter. I have a fascination for the properties of matter that challenge our understanding beyond traditional paradigms, for example those driven by quantum fluctuations and coherence or in systems perturbed away from equilibrium.
+In my research, my emphasis is on developing methodological ways to deal with complex systems rooted in statical physics. These include information theory (both classical and quantum), field-theoretical methods, hydrodynamics, integrability, probability theory and randomness (network theory, random matrices), and numerical methods (data mining, unsupervised learning, exact diagonalization, Monte Carlo methods).
 
 Research interests and highlights:
 ======
@@ -22,7 +22,7 @@ Research interests and highlights:
 
 About my past
 ======
-I was born in Rome, Italy. I obtained my master degree in physics from Università degli Studi di Roma "La Sapienza", and then moved to Trieste to join the [Statistical physics group](http://statphys.sissa.it/index.html), where I obtained a PhD in statistical physics at the International School for Advanced Studies (SISSA). 
+I was born in Rome, Italy. I obtained my master's degree in physics from Università degli Studi di Roma "La Sapienza", and then moved to Trieste to join the [Statistical physics group](http://statphys.sissa.it/index.html), where I obtained a PhD in statistical physics at the International School for Advanced Studies (SISSA). 
 <!--
 Ciao!#
 ------- #
